@@ -12,10 +12,15 @@
     --texto:texto;
 }
 html,body{
+    background-color: black;
+    
+}
+main{
     min-width: 320px;
     max-width: 750px;
     min-height:100vh;
-    background-color:rgb(0, 0, 0)
+    margin: auto;
+   
 }
 header{
     background-image: linear-gradient(to right, rgb(0, 0, 0),rgb(8, 8, 63),rgb(0, 0, 0));
