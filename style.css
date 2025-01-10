@@ -12,6 +12,8 @@
     --texto:texto;
 }
 html,body{
+    min-width: 320px;
+    max-width: 750px;
     min-height:100vh;
     background-color:rgb(0, 0, 0)
 }
@@ -46,7 +48,8 @@ a:hover{
     text-decoration: underline;
 }
 section{
-    max-width: 1000px;
+    max-width: 8000px;
+    min-width: 350px;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
