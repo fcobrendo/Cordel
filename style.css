@@ -12,13 +12,14 @@
     --texto:texto;
 }
 html,body{
-    background-color: black;
+   background-image: linear-gradient(to top, rgb(208, 230, 17),darkblue);
     
 }
 main{
-    min-width: 320px;
+    min-width: 350px;
     max-width: 750px;
     min-height:100vh;
+    max-width: 90vw;
     margin: auto;
    
 }
@@ -66,7 +67,7 @@ section{
     
 }
 section p{
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     margin: auto;
 }
 #logo{
