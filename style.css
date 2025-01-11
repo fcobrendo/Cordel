@@ -95,15 +95,6 @@ section p{
     width: 200px;
     height: 50px;
     border-radius: 10px 10px;
-    
-    
-}
-
-
-
-.imagem>p {
-    max-width: 400px;
-    background-color: rgba(0, 0, 0, 0.308);
 }
 footer{
     background-color: black;
